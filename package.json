@@ -1,0 +1,19 @@
+{
+  "name": "gustavofsantos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gustavofsantos/gustavofsantos.git"
+  },
+  "author": "Gustavo Santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gustavofsantos/gustavofsantos/issues"
+  },
+  "homepage": "https://github.com/gustavofsantos/gustavofsantos#readme"
+}
