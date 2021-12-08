@@ -1,0 +1,12 @@
+{
+  "name": "@gustavofsantos/defn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "tap"
+  },
+  "author": "Gustavo Santos <gustavofsantos@outlook.com>",
+  "license": "ISC"
+}
