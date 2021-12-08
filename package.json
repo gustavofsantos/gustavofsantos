@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "tap"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/gustavofsantos/gustavofsantos/issues"
   },
-  "homepage": "https://github.com/gustavofsantos/gustavofsantos#readme"
+  "homepage": "https://github.com/gustavofsantos/gustavofsantos#readme",
+  "workspaces": [
+    "packages/defn"
+  ],
+  "devDependencies": {
+    "tap": "^15.1.5"
+  }
 }
